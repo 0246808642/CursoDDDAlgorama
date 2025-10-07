@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Kernel\Kernel.Infra\Kernel.Infra.csproj" />
     <ProjectReference Include="..\Empresa.Churras.Domain\Empresa.Churras.Domain.csproj" />
   </ItemGroup>
 

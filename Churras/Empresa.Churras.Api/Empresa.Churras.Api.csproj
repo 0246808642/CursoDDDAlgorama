@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Empresa.Churras.Infra\Empresa.Churras.Infra.csproj" />
   </ItemGroup>
 

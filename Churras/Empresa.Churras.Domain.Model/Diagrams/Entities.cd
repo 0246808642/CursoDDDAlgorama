@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Empresa.Churras.Domain.Model.Entities.Colega">
+    <Position X="1" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAEAA=</HashCode>
+      <FileName>Entities\Colega.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Empresa.Churras.Domain.Model.Entities.Evento">
+    <Position X="4.75" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAACAAAAAAAgAAQAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Entities\Evento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DonoDaCasa" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="ColegasQueConfirmaramPresenca" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Empresa.Churras.Domain.Model.Entities.EventoColegaConfirmado">
+    <Position X="9" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\EventoColegaConfirmado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
