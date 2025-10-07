@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Empresa.Churras.Front\\Empresa.Churras.Front\\Empresa.Churras.Front.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Empresa.Churras.Api\\Empresa.Churras.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

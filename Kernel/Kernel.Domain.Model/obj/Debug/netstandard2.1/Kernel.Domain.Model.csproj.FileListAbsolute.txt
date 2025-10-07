@@ -1,0 +1,11 @@
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\bin\Debug\netstandard2.1\Kernel.Domain.Model.deps.json
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\bin\Debug\netstandard2.1\Kernel.Domain.Model.dll
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\bin\Debug\netstandard2.1\Kernel.Domain.Model.pdb
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.csproj.AssemblyReference.cache
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.AssemblyInfo.cs
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.sourcelink.json
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.dll
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Kernel\Kernel.Domain.Model\obj\Debug\netstandard2.1\Kernel.Domain.Model.pdb

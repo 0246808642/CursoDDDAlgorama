@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3L1RG51i4Xk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caique\\Source\\Repos\\CursoDDDAlgorama\\Churras\\Empresa.Churras.Domain\\Empresa.Churras.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caique\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

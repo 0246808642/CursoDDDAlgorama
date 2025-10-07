@@ -1,0 +1,16 @@
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\bin\Debug\net8.0\Empresa.Churras.Domain.Model.deps.json
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\bin\Debug\net8.0\Empresa.Churras.Domain.Model.dll
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\bin\Debug\net8.0\Empresa.Churras.Domain.Model.pdb
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\bin\Debug\net8.0\Kernel.Domain.Model.dll
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\bin\Debug\net8.0\Kernel.Domain.Model.pdb
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.csproj.AssemblyReference.cache
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.AssemblyInfo.cs
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.sourcelink.json
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa..7082A3EA.Up2Date
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.dll
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\refint\Empresa.Churras.Domain.Model.dll
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\Empresa.Churras.Domain.Model.pdb
+C:\Users\Caique\Source\Repos\CursoDDDAlgorama\Churras\Empresa.Churras.Domain.Model\obj\Debug\net8.0\ref\Empresa.Churras.Domain.Model.dll
