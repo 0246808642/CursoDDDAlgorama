@@ -1,4 +1,5 @@
-﻿using Kernel.Domain.Model.Entities;
+﻿using Empresa.Churras.Domain.Model.ValueObjects;
+using Kernel.Domain.Model.Entities;
 
 namespace Empresa.Churras.Domain.Model.Entities;
 
@@ -8,6 +9,6 @@ public class Evento : EntityKeySeq
     public Colega? DonoDaCasa { get; set; }
     public string? TipoEvento { get; set; }
     public DateTime Dia { get; set; }
-    public string? Periodo { get; set; }
+    public Periodo? Periodo { get; set; }
     public IList<EventoColegaConfirmado>? ColegasQueConfirmaramPresenca { get; set; }
 }

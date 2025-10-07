@@ -7,6 +7,7 @@ namespace Kernel.Domain.Model.ValueObjects
     public abstract class ValueObject : IValueObject
     {
         public ValueObject Clone() => (ValueObject)MemberwiseClone();
+
     }
 
     // Classe escrita por Jimmy Bogard
